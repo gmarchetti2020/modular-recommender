@@ -130,3 +130,6 @@ dmypy.json
 
 # ipython checkpoints
 .ipynb_checkpoints/
+
+# Mac icons
+.DS_Store
